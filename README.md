@@ -31,10 +31,11 @@ Design Science Research:
 |---|---|
 | `ferramenta/` | Código-fonte da ferramenta e da GitHub Action, com testes |
 | `auditoria/` | Checklist da auditoria manual e planilhas preenchidas por portal |
-| `dados/` | Lista de URLs avaliadas, relatórios brutos (JSON) e dados consolidados |
+| `dados/` | Lista de URLs avaliadas, páginas arquivadas, relatórios brutos (JSON) e dataset consolidado (CSV) |
+| `analise/` | Scripts de cálculo das métricas (precisão, recall, F1, kappa, tempos) e geração de gráficos |
 | `instrumentos/` | Protocolo de auditoria e critérios de seleção da amostra |
-| `docs/artigo/` | Versões do projeto e do artigo |
-| `docs/diagramas/` | Diagramas UML e de arquitetura |
+| `docs/artigo/` | Versões do projeto e do artigo (pré-projeto: `pre-projeto-tcc.docx`) |
+| `docs/diagramas/` | Diagramas UML, de arquitetura e tabela de mapeamento eMAG–WCAG–axe-core |
 
 ## Status
 
